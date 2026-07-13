@@ -1,0 +1,9 @@
+worker:
+  id: worker-01
+
+master:
+  host: 192.168.1.10
+  port: 8000
+
+heartbeat:
+  interval: 5
